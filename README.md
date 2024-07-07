@@ -8,10 +8,10 @@ The Rock Paper Scissors app is a simple and fun Flutter application that allows 
 
 ## Features
 
-- ** Interactive Gameplay: Play Rock, Paper, Scissors with a visually appealing interface.
-- ** Randomized Computer Moves: The computer's moves are generated randomly to ensure fair play.
-- ** Score Tracking: Keep track of the score to see how many games you have won, lost, or tied.
-- ** Responsive Design: The app is designed to work seamlessly on both Android and iOS devices.
+-  Interactive Gameplay: Play Rock, Paper, Scissors with a visually appealing interface.
+-  Randomized Computer Moves: The computer's moves are generated randomly to ensure fair play.
+-  Score Tracking: Keep track of the score to see how many games you have won, lost, or tied.
+-  Responsive Design: The app is designed to work seamlessly on both Android and iOS devices.
 
 And a big shout out to my friend Younes for creating me assets and the pictures for the project so check out his IG:
 https://www.instagram.com/bettercallyounes/
